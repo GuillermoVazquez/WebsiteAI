@@ -1,5 +1,4 @@
 import os
-OPENAI_API_KEY = "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"  # platform.openai.com
 os.environ['OPENAI_API_KEY']= OPENAI_API_KEY
 
 import pandas as pd
