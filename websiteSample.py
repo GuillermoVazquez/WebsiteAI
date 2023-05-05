@@ -1,5 +1,4 @@
 import os
-os.environ['OPENAI_API_KEY']= OPENAI_API_KEY
 
 import pandas as pd
 from langchain.chat_models import ChatOpenAI
